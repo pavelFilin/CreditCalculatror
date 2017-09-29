@@ -10,6 +10,7 @@ import ru.feeleen.calculator.bll.CreditFormulas;
 import java.awt.*;
 
 public class ControllerCalculatorView {
+    public double f = 1;
     @FXML
     public Label monthlyRepaymant;
     @FXML
